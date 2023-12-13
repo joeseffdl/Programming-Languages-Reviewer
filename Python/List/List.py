@@ -1,0 +1,1 @@
+list = ["Math", "English", 1997, 2022] # List of strings and numbers
